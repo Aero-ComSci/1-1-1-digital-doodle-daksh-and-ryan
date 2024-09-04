@@ -14,8 +14,16 @@ DESIGN VIEW
 ![image](https://github.com/user-attachments/assets/eb3d75fc-cfce-4901-8d92-058039ffbd9a)
 ACTUCL BLOCKS VIEW
 1. Blocks that you showcase your individual skill
+![image](https://github.com/user-attachments/assets/2d9f6391-dfb9-483a-802a-53ebe6d179df)
+MY NEW BLOCKS
 1. The images you created
 
+
+![image](https://github.com/user-attachments/assets/8f1522b2-b424-49b5-b70d-f82562370718)
+Dino
+
+![image](https://github.com/user-attachments/assets/21bdd8e2-f4bc-447c-8fe5-60f45ef7e4b4)
+Car
    Add the MIT App Inventor File to the Repository
 
    Add the MIT Build File to the repository
